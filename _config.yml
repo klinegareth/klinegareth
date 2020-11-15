@@ -5,16 +5,16 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Kline Gareth
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
+  bio:            "Writer"
+  email:          kgd273@nyu.edu
+  twitter:        klinegareth
   github:         coletownsend
   instagram:      ctrunsthis
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Portsmouth, NH"
   # Plug in your disqus shortname!
 
 tools:
