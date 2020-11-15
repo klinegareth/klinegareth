@@ -1,0 +1,26 @@
+---
+label: Blog post w/ Header Image
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: category
+  label: category
+- type: list
+  name: tags
+  label: tags
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: file
+    name: feature
+    label: feature
