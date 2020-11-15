@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: Blog
 title: Testing something
 description: Heyo
 category: birds
