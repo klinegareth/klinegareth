@@ -24,3 +24,5 @@ fields:
   - type: file
     name: feature
     label: feature
+pages:
+- _posts/testing-something.md
