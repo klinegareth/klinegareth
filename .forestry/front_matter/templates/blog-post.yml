@@ -21,4 +21,4 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/hello-world.md
+- _posts/2020-11-15-hello-world.md
